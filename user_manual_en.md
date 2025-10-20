@@ -49,6 +49,24 @@ Here's quick navigation for functionality explanation covered in this section:
   - Post-Game Modifications
 - Standings
 
+### Usability Setup 
+
+Base screen right after selection of visualization platform serves similar way like login screen with some quick overview metrics.\
+
+This section consists of: 
+- Organization select - by clicking on org. title choose a desired one which will be part of further operations in application
+- Player select - by clicking on player name choose a desired one which will be part of further operations in application
+
+Each section provides quick look on standard overview about selection's status. Each selection is marked with identifier. Based on screen space saving, this identifier is used in metric overview for quick orientation. 
+- Activity Count Order
+  - Org.: aggregation from count of scheduled games
+  - Player: aggregation from count of player's invitation to game lobby
+- Last Status Information
+  - Org. Last Game: information takes from game scheduler
+  - Player Last Activity: information takes from last join to game lobby
+
+
+
 
 ## Desktop Version
 

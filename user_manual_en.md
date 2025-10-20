@@ -65,6 +65,8 @@ Each section provides quick look on standard overview about selection's status. 
   - Org. Last Game: information takes from game scheduler
   - Player Last Activity: information takes from last join to game lobby
 
+![20251020_175042](https://github.com/user-attachments/assets/bebf3895-05bb-4c38-bbed-1fb0f1eab9ab)
+
 
 
 

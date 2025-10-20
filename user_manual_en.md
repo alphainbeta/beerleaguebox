@@ -51,7 +51,7 @@ Here's quick navigation for functionality explanation covered in this section:
 
 ### Usability Setup 
 
-Base screen right after selection of visualization platform serves similar way like login screen with some quick overview metrics.\
+Base screen right after selection of visualization platform serves similar way like login screen with some quick overview metrics.
 
 This section consists of: 
 - Organization select - by clicking on org. title choose a desired one which will be part of further operations in application
@@ -65,9 +65,7 @@ Each section provides quick look on standard overview about selection's status. 
   - Org. Last Game: information takes from game scheduler
   - Player Last Activity: information takes from last join to game lobby
 
-![20251020_175042](https://github.com/user-attachments/assets/bebf3895-05bb-4c38-bbed-1fb0f1eab9ab)
-
-
+![Login](https://github.com/user-attachments/assets/41508767-787f-4271-8f12-955b6d3d8310)
 
 
 ## Desktop Version

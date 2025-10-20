@@ -5,10 +5,10 @@ Comprehensive documentation for users to get in touch with functionality of appl
 It aims on practical demonstrations for currently provided features that is explained through interactive animations and videos.
 
 Here's quick navigation for major topics: 
-- [Application Access](https://github.com/alphainbeta/myfiles/blob/main/blb/user_manual_en.md#access)
-- [Navigation Screen](https://github.com/alphainbeta/myfiles/blob/main/blb/user_manual_en.md#navigation-screen)
-- [Smart Version](https://github.com/alphainbeta/myfiles/blob/main/blb/user_manual_en.md#smart-version)
-- [Desktop Version](https://github.com/alphainbeta/myfiles/blob/main/blb/user_manual_en.md#desktop-version)
+- [Application Access](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#access)
+- [Navigation Screen](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#navigation-screen)
+- [Smart Version](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#smart-version)
+- [Desktop Version](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#desktop-version)
 
 ## Access
 

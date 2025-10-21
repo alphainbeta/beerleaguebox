@@ -113,7 +113,7 @@ Further modifications of game data or game cancellation could be performed in de
 ### Lobby
 
 By the creation of game the process of building a player's invitation room is complete and waiting lobby is ready to be filled.\
-Lobby room is feature that helps in organizing event process and makes players more self-sufficient.
+Lobby room is feature that helps in organizing event process and makes non-manager players more self-sufficient.
 
 It's important to know lobby room is going to be locked **36 hours** before planned game date.\
 Once limit is reached, players are no longer be able to join into game by itself and their chance to be involved into game roster is lower.\ 
@@ -135,13 +135,73 @@ Player could be informed by email notification after every process change in Lob
 
 ### Roster
 
+Game cannot begin without preparation. Roster system brings on table powerful alternative of standard excel sheets or other formats of grid and tables necessar to create a simple list of players and their positions.
+
+Functionality covered by this feature involves: 
+- Teams game grid separation separated by player's shifts
+- Roster management tool to build a quick game grid from available players
+- Player attendance confirmation before game starts
+
+It's important to mention "Roster" section is open 36 hours before game starts which is also indicated in "Gameboard" by time counter.
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/c1b39836-00e2-4123-83a2-a477645007d9" />
+
 #### Roster Creation
+
+This tool supports main functionality originally developed for desktop version. It's a lighter version in comparatio of desktop one, but still coveres crucial aspects like: 
+- **Adding** player into game roster by picking from **Lobby Room** - it's default player base from which the picks are preferred
+- **Adding** player into game roster by picking from Organization **Player Base** - it helps when some players miss oppurtunity to officialy joining the game by game lobby
+- **Remove** player from game roster
+- **Position suggestion** system based on player specification set at creation process
+- **Player occupation** validation in game roster
+- **Position occupation** validation in game roster
+
+Whole process of roster creation is divided in 3 steps: 
+1. Pick player from Org. players repository or lobby room
+2. Choose desired position for selected player based on team, line and grid
+3. Confirm selection
+
+Once its confirmed, after refreshing page, selection will appear in game roster.
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/fa2e9821-f8da-4e28-9e28-21302f239987" />
 
 #### Player Attendance Confirm
 
+Successful creation of game roster is first step to start a game. For a player, it serves as a official invitation to game by event menager. Once player is invited, players itself should confirm their availability to participate on game. 
+
+In many cases option to participated on game is conditioned by pay a spot in game roster. For example this could be related to individual costs for event management. This is exact case of relation to game costs which are set in "Game Scheduler" that could be used in further analysis or helping managing whole event.
+
+Confirmation process is simple. Once player is added in game roster, its available to confirm his attendance by clicking on player's name in game grid. In the grid is possbile to check exact time when player was added by clicking on triangle in the corner of particular cell.
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/335dbd59-4f84-474d-b1f2-edf4ac0f5d81" />
+
 ### Stream
 
+This feature providing key option to data collection necessary for further analysis and statistics. It unlocks possibilities to live tracing game progression status.\
+Since smart version is more tool oriented to provide most easy usage while ongoing game, desktop version is fully oriented like monitoring dashboard with much more complex real time metrics. 
+
+Base screen for "Stream" section offers: 
+- Live game result
+- Roster-oriented grid view for simple usage related with pointing system
+- Simple indication about last scorer for each team
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/b8087229-032f-4206-8f69-ee8522e2a26d" />
+
 #### Score Counter
+
+It works like remote control for control of game result by adding several metrics directly to player. 
+
+Counting works behind on simple pointing system consists of: 
+- Goals
+- Assists
+- Saves
+- Shots
+
+System is directly connected with game roster to ensure easy usage and orientation. By selecting player from game grid user is redirected into pointing system selection. Once metric is selected its necessar to confirm metric addition to player.
+
+It's important to know, user can add or remove metric from player's point base.
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/6803dc12-8b4e-463b-ba02-966868ab77b1" />
 
 ### Analysis
 
@@ -158,7 +218,7 @@ Its important to mention that is available **36 hours** right after finishing th
 
 #### Post Game Modifications
 
-Same as this option is part of "Roster" section, it provides additional confirmation in case of player attendance in game. This feature help to event manager in scenarios if attendance validations are ongoing after the game, not before.
+Same as this option is part of "Roster" section, it provides additional confirmation in case of player attendance in game. This feature help to event manager in scenarios if participation validations are ongoing after the game, not before.
 
 System for confirmation is similiar then its in "Roster" section, additionally with information about final comparison of all attended players in game.
 

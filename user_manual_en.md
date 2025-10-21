@@ -36,19 +36,19 @@ It's important to clarify the information regarding platform selection. Differen
 ## Smart Version 
 
 Here's quick navigation for functionality explanation covered in this section: 
-- Usability Setup
-- Gameboard
-  - Player Creation
-  - Game Scheduler
-- Lobby
-- Roster
-  - Roster Creation
-  - Player Attendance
-- Stream
-  - Score Counter
-- Analysis
-  - Post-Game Modifications
-- Standings
+- [Usability Setup](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#usability-setup)
+- [Gameboard](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#gameboard)
+  - [Player Creation](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-creation)
+  - [Game Scheduler](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#game-scheduler)
+- [Lobby](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#lobby)
+- [Roster](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster)
+  - [Roster Creation](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster-creation)
+  - [Player Attendance](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-attendance-confirm)
+- [Stream](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#stream)
+  - [Score Counter](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#score-counter)
+- [Analysis](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#analysis)
+  - [Post-Game Modifications](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#post-game-modifications)
+- [Standings](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#standings)
 
 ### Usability Setup 
 

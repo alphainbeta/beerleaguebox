@@ -168,11 +168,11 @@ Po potvrdení sa obnovením stránky nastavenie zobrazí v hernej súpiske.
 
 #### Potvrdenie účasti hráča
 
-Successful creation of game roster is first step to start a game. For a player, it serves as a official invitation to game by event menager. Once player is invited, players itself should confirm their availability to participate on game. 
+Úspešné vytvorenie herného zoznamu je prvým krokom k začatiu hry. Pre hráča to slúži ako oficiálne pozvanie do hry od manažéra podujatia. Po pozvaní by mal hráč sám potvrdiť svoju dostupnosť pre účasť v hre.
 
-In many cases option to participated on game is conditioned by pay a spot in game roster. For example this could be related to individual costs for event management. This is exact case of relation to game costs which are set in "Game Scheduler" that could be used in further analysis or helping managing whole event.
+V mnohých prípadoch je účasť na hre podmienená uhradením zbieranej sumy za obsadenú pozíciu v súpiske. Napríklad by to mohlo súvisieť s individuálnymi nákladmi na riadenie podujatia. Presne v tomto prípade ide o náklady na hru, ktoré sa nastavujú v „Plánovač hry“, a ktoré by sa mohli použiť pri ďalšej analýze alebo pri zlepšení riadenia celej organizácie.
 
-Confirmation process is simple. Once player is added in game roster, its available to confirm his attendance by clicking on player's name in game grid. In the grid is possbile to check exact time when player was added by clicking on triangle in the corner of particular cell.
+Proces potvrdenia je jednoduchý. Po pridaní hráča do súpisky je možné potvrdiť jeho účasť kliknutím na meno hráča v hernej mriežke. V mriežke je možné skontrolovať presný čas, kedy bol hráč pridaný, kliknutím na trojuholník v rohu príslušnej bunky.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/335dbd59-4f84-474d-b1f2-edf4ac0f5d81" />
 

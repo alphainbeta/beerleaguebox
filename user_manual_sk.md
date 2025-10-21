@@ -1,135 +1,136 @@
-# User Manual
+# Užívateľská Príručka
 
-Comprehensive documentation for users to get in touch with functionality of application. 
+Komplexná dokumentácia pre používateľov, ktorá im umožňuje oboznámiť sa s funkciami aplikácie.
 
-It aims on practical demonstrations for currently provided features that is explained through interactive animations and videos.
+Zameriava sa na praktické ukážky aktuálne poskytovaných funkcií, ktoré sú vysvetlené prostredníctvom interaktívnych animácií a videí.
 
-Here's quick navigation for major topics: 
-- [Application Access](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#access)
-- [Navigation Screen](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#navigation-screen)
-- [Smart Version](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#smart-version)
-- [Desktop Version](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#desktop-version)
+Tu je rýchla navigácia pre hlavné témy:
+- [Prístup do aplikácie](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#Prístup)
+- [Navigačný panel](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#navigation-screen)
+- [verzia Smart](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#smart-version)
+- [verzia Desktop](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#desktop-version)
 
-## Access
+## Prístup do aplikácie
 
-For successful entrance to enviroment use this link: \
-https://hockgeny.grafana.net/d/alrb6gn/home-navigation?orgId=1&kiosk=true
+Pre úspešný vstup do prostredia aplikácie použite tento odkaz: \
+https://hockgeny.grafana.net/d/alpnbp2/home-navigation-sk?orgId=1&kiosk=true
 
-It's highly recommend to made a shortcut on your home screens to simplifying an access.
+Dôrazne odporúčame vytvoriť si na Vašej domovskej obrazovke skratku pre zjednodušenie prístupu.
 
-If you're not logged in system, you'll be prompted to provide your credentials for access. 
+Ak nie ste prihlásení do systému, budete vyzvaní na zadanie svojich prihlasovacích údajov.
 
-Once you'r logged in, your credentials should be remembered in system. For another accessing attempts you'r redirected to navigation board of application without necessarity of login.
+Po prihlásení by si systém mal vaše prihlasovacie údaje zapamätať. Pri ďalších pokusoch o prístup budete presmerovaní na hlavný navigačný panel aplikácie bez nutnosti prihlásenia.
 
-## Navigation Screen
+## Navigačný panel
 
-After succesful login into the enviroment user is welcomed in navigation showroom where's possible to: 
-- Access to application displayed in various methods based on currently used platform - smartphone, desktop computer
-- Switching between language versions and acces to user manuals - top right corner
-- Get information about latest updates and other types of information regarding application and hockey in overall - bottom section 
+Po úspešnom prihlásení do prostredia je používateľ privítaný v navigačnom showroome, kde je možné:
+- Prístupiť k funkciám aplikácie rôznymi spôsobmi na základe Vami aktuálne používanej platformy - smartfón, stolný počítač
+- Prepínanie medzi jazykovými verziami a prístup k používateľským manuálom - pravý horný roh
+- Získanie informácií o najnovších aktualizáciách a ďalších informácií týkajúcich sa aplikácie a hokeja všeobecne - spodná časť
 
-It's important to clarify the information regarding platform selection. Difference is not only in adjustment based on screen resolution, but it also related with scope of functionality selected platform could provide. While version for smartphone is more lite but still posses core functionality, desktop version offers some additional features its extends user experience and provides more robust feel while working with.
+
+Je dôležité objasniť informácie týkajúce sa výberu platformy. Rozdiel nie je len v nastavení na základe rozlíšenia obrazovky, ale súvisí aj s rozsahom funkcií, ktoré vybraná platforma ponúka. Zatiaľ čo verzia pre smartfóny je jednoduchšia, ale stále obsahuje základné funkcie, verzia pre počítače ponúka niektoré ďalšie funkcie, ktoré rozširujú používateľský zážitok a poskytujú robustnejší pocit pri práci.
 
 <img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/84f5d169-e630-46f9-b41b-319a99331de8" />
 
 
-## Smart Version 
+## Verzia Smart
 
-Here's quick navigation for functionality explanation covered in this section: 
-- [Usability Setup](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#usability-setup)
-- [Gameboard](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#gameboard)
-  - [Player Creation](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-creation)
-  - [Game Scheduler](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#game-scheduler)
-- [Lobby](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#lobby)
-- [Roster](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster)
-  - [Roster Creation](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster-creation)
-  - [Player Attendance](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-attendance-confirm)
-- [Stream](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#stream)
-  - [Score Counter](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#score-counter)
-- [Analysis](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#analysis)
-  - [Post-Game Modifications](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#post-game-modifications)
-- [Standings](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#standings)
+Tu je rýchly prehľad funkcií uvedených v tejto časti:
+- [Užívateľské nastavenia](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#usability-setup)
+- [Herná tabuľa](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#gameboard)
+  - [Registrácia hráča](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-creation)
+  - [Plánovač hry](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#game-scheduler)
+- [Čakáreň](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#lobby)
+- [Súpiska](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster)
+  - [Vytvorenie súpisky](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster-creation)
+  - [Potvrdenie účasti hráča](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-attendance-confirm)
+- [Zápas](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#stream)
+  - [Počítadlo skóre](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#score-counter)
+- [Štatistika](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#analysis)
+  - [Úpravy po zápase](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#post-game-modifications)
+- [História](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#standings)
 
-### Usability Setup 
+### Užívateľské nastavenia
 
-Base screen right after selection of visualization platform serves similar way like login screen with some quick overview metrics.
+Základná obrazovka hneď po výbere vizualizačnej platformy slúži podobne ako prihlasovacia obrazovka s niekoľkými rýchlymi prehľadmi metrík.
 
-This section consists of: 
-- **Organization select** - by clicking on org. title choose a desired one which will be part of further operations in application
-- **Player select** - by clicking on player name choose a desired one which will be part of further operations in application
+Táto sekcia obsahuje:
+- **Výber organizácie** - kliknutím na názov organizácie vyberiete požadovanú organizáciu, ktorá bude súčasťou ďalších operácií v aplikácii
+- **Výber hráča** - kliknutím na meno hráča vyberiete požadovanú organizáciu, ktorá bude súčasťou ďalších operácií v aplikácii
 
-Each section provides quick look on standard overview about selection's status. Each selection is marked with identifier. Based on screen space saving, this identifier is used in metric overview for quick orientation. 
-- **Activity Count Order**
-  - Org.: aggregation from count of scheduled games
-  - Player: aggregation from count of player's invitation to game lobby
-- **Last Status Information**
-  - Org. Last Game: information is taken from game scheduler
-  - Player Last Activity: information is taken from last join to game lobby
+Každý výberový element je označený identifikátorom. Na základe úspory miesta na obrazovke sa tento identifikátor používa v prehľade metrík pre rýchlu orientáciu.
+
+- **Stĺpcové poradie podľa aktivity pre:**
+  - Organizáciu - agregácia počtu naplánovaných hier
+  - Hráčov - agregácia počtu prihlásení do hernej čakárne
+- **Informácie o poslednom stave pre:**
+  - Organizáciu - Posledná plánovaná hra (informácie sa preberajú z plánovača hier)
+  - Hráčov - Posledná aktivita hráča (informácie sa preberajú z posledného pripojenia do hernej čakárne)
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/41508767-787f-4271-8f12-955b6d3d8310" />
 
-### Gameboard
+### Herná tabuľa
 
-Home screen for selected organization providing quick overview about: 
-- **Usability setup selection** consists of Organization and Player pick
-- **Game history** chronologically order by game scheduled date
-- **Game status** bar aimed on organization's latest game
-- **Quick organization's stats** focused on:
-  - **Player leading board** based on collected data on live score counter
-  - **Team winning ratio** based on teams who's part of your organization
-  - Additional information about most active player based on game invitations counter and last game winning team
- 
-Bottom part of page involves navigation buttons for: 
-- Return to "Usability Setup" page
-- Jump into management tool for player creation or game scheduling
+Domovská obrazovka pre vybranú organizáciu poskytuje rýchly prehľad o:
+- **Vybrané užívateľské nastavenia** - pozostáva z výberu organizácie a hráča
+- **História hier** - chronologicky zoradená podľa plánovaného dátumu hry
+- **Stav hry** - informačný riadok zameraný na najnovšiu hru vybranej organizácie
+- **Rýchle štatistiky organizácie** zamerané na:
+  - **Rebríček hráčov** na základe zhromaždených údajov pomocou počítadla skóre zo zápasov
+  - **Pomer víťazstiev** na základe tímov, ktoré sú súčasťou vašej organizácie
+  - Indikátory najaktívnejšieho hráča (na základe počtu prihlásení do hernej čakárne) a víťazného tímu pre posledné uskutočnené stretnutie
+
+Spodná časť stránky obsahuje navigačné tlačidlá pre:
+- Návrat na stránku „Užívateľské nastavenia“
+- Prechod do sekcie pre hernú správu, súčasťou ktorej sú nástroje ako registrácia hráča alebo plánovanie hier
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/faf35997-e747-456e-852f-2c92f4cfe204" />
 
-#### Player Creation 
+#### Registrácia hráča
 
-Feature supports full functionality of player's management system covered in desktop version.
+Funkcia podporuje plnú funkčnosť systému pre správu hráčov, ktorý je súčasťou verzie desktop.
 
-This ligther version provides: 
-- Quick player creation based on selected name
-- Position definition necessar for suggestion system and roster creation
+Táto odľahčená verzia poskytuje:
+- Rýchle vytvorenie hráča na základe vybraného mena
+- Definíciu pozície potrebnú pre podporný systém pri vytváraní hernej súpisky
 
-Data about player could be fully modified in desktop version of player's management system.
+Údaje o hráčoch je dodatočne možné modifikovať vo verzií desktop v systéme pre správu hráčov.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/ed7a2d3f-6c5f-464d-91c7-1afca9afc5cf" />
 
-#### Game Scheduler
+#### Plánovač hry
 
-Feature supports full functionality of organization's management system covered in desktop version.
+Funkcia podporuje plnú funkčnosť systému pre správu a riadenie organizácie, ktorý je súčasťou verzie desktop.
 
-This ligher version provides: 
-- Plan the game by setting date and time
-- Set a game cost
-- Select home and away teams which will compete in the game
+Táto odľahčená verzia poskytuje:
+- Nastavenie dátumu a času pre zápas
+- Nastavenie nákladov
+- Výber domácich a hosťujúcich tímov, ktoré budú účastníkmi zápasu 
 
-Further modifications of game data or game cancellation could be performed in desktop version of team's management system. 
+Ďalšie úpravy údajov hry alebo zrušenie hry je možné vykonať v desktopovej verzii systému riadenia tímov.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/54502cdb-b6fd-4001-ad6a-c02e50d15ec9" />
 
-### Lobby
+### Čakáreň
 
-By the creation of game the process of building a player's invitation room is complete and waiting lobby is ready to be filled.\
-Lobby room is feature that helps in organizing event process and makes non-manager players more self-sufficient.
+Vytvorením hry je proces pozvánky pre hráčov dokončený a čakáreň je pripravená na obsadenie.\
+Herná čakáreň je funkcionalita, ktorá pomáha pri organizácii podujatí a umožňuje hráčom, ktorí nie sú súčasťou správy podujatia, väčšiu samostatnosť.\
+Správca hry je tak oslobodený od povinnosti prizývania hráčov a hráči sú svojpomocne schopný prejaviť záujem o vybranú hru prihlásením sa do nej.
 
-It's important to know lobby room is going to be locked **36 hours** before planned game date.\
-Once limit is reached, players are no longer be able to join into game by itself and their chance to be involved into game roster is lower.\ 
-Player still could be added into game roster but only by event manager in process of creation of roster by special feature described in "Roster Creation" section. 
+Je dôležité vedieť, že čakáreň je uzamknutá **36 hodín** pred plánovaným dátumom hry.\
+Po dosiahnutí tohto limitu sa hráči už nebudú môcť samostatne pripojiť k hre a ich šanca na zaradenie do herného zoznamu sa zníži.\
+Hráč má stále šancu byť zaradený do herného zoznamu, ale iba manažérom udalosti a to až v procese vytvárania hernej súpisky pomocou na to určenej funkcie, ktorá je samostatne popísaná v časti „Vytvorenie súpisky“.
 
-After entrance into the lobby player can perform: 
-- **Game join** to show interest to be added in game roster
-- **Quit game** by leaving lobby and eliminate a chance to be pinned into game roster
-- **Chat** with other players by typing a message into chat box
+Po vstupe do čakárnej môže hráč vykonať:
+- **Pripojiť sa k hre** - týmto krokom hráč prejavuje záujem o zaradenie do hernej súpisky
+- **Odpojiť sa z hry** - týmto krokom hráč odvoláva svoje prejavenie záujmu o vybranú hru a eliminuje možnosť byť zaradený do hernej súpisky
+- **Četovať v miestnosti** s ostatnými hráčmi napísaním správy do chatovacieho okna
 
-Metrics involved in this particular section provides information about: 
-- Last player joined into the lobby room
-- Goalie availability in lobby room
-- Player count joined in lobby room 
-
-Player could be informed by email notification after every process change in Lobby room.
+Metriky v tejto konkrétnej sekcii poskytujú informácie o:
+- Posledný hráč pripojený do vybranej hry
+- Dostupnosť brankára vo vybranej hre
+- Počet hráčov pripojených do hry (mimo brankár)
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/ec61c4e1-7bf0-4fad-a4a7-db00e327f224" />
 
@@ -231,7 +232,7 @@ Basically, features that is part of "Analysis" section is also part of "Standing
 
 For upcoming versions, "Standings" section will provide much more deeper look on selected organization stats and its opening the options to compare metrics between various organizations.
 
-## Desktop Version
+## Verzia Desktop
 
 Here's quick navigation for functionality explanation covered in this section: 
 - Gameboard

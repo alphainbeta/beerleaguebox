@@ -89,26 +89,26 @@ Spodná časť stránky obsahuje navigačné tlačidlá pre:
 
 #### Registrácia hráča
 
-Funkcia podporuje plnú funkčnosť systému pre správu hráčov, ktorý je súčasťou verzie desktop.
+Funkcia podporuje plnú funkčnosť systému pre správu hráčov, ktorý je súčasťou verzie `Desktop`.
 
 Táto odľahčená verzia poskytuje:
 - Rýchle vytvorenie hráča na základe vybraného mena
 - Definíciu pozície potrebnú pre podporný systém pri vytváraní hernej súpisky
 
-Údaje o hráčoch je dodatočne možné modifikovať vo verzií desktop v systéme pre správu hráčov.
+Údaje o hráčoch je dodatočne možné modifikovať vo verzií `Desktop` v systéme pre správu hráčov.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/ed7a2d3f-6c5f-464d-91c7-1afca9afc5cf" />
 
 #### Plánovač hry
 
-Funkcia podporuje plnú funkčnosť systému pre správu a riadenie organizácie, ktorý je súčasťou verzie desktop.
+Funkcia podporuje plnú funkčnosť systému pre správu a riadenie organizácie, ktorý je súčasťou verzie `Desktop`.
 
 Táto odľahčená verzia poskytuje:
 - Nastavenie dátumu a času pre zápas
 - Nastavenie nákladov
 - Výber domácich a hosťujúcich tímov, ktoré budú účastníkmi zápasu 
 
-Ďalšie úpravy údajov hry alebo zrušenie hry je možné vykonať v desktopovej verzii systému riadenia tímov.
+Ďalšie úpravy údajov hry alebo zrušenie hry je možné vykonať v systéme riadenia tímov vo verzií `Desktop`.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/54502cdb-b6fd-4001-ad6a-c02e50d15ec9" />
 
@@ -134,39 +134,39 @@ Metriky v tejto konkrétnej sekcii poskytujú informácie o:
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/ec61c4e1-7bf0-4fad-a4a7-db00e327f224" />
 
-### Roster
+### Súpiska
 
-Game cannot begin without preparation. Roster system brings on table powerful alternative of standard excel sheets or other formats of grid and tables necessar to create a simple list of players and their positions.
+Hra sa nemôže začať bez prípravy. Systém hernej súpisky prináša na stôl výkonnú alternatívu štandardných excelovských hárkov alebo iných formátov tabuliek potrebných na vytvorenie herného zoznamu hráčov a ich pozícií.
 
-Functionality covered by this feature involves: 
-- Teams game grid separation separated by player's shifts
-- Roster management tool to build a quick game grid from available players
-- Player attendance confirmation before game starts
+Funkcie, ktoré tento nástroj pokrýva, zahŕňajú:
+- Rozdelenie súpisky podľa tímov a herných pätiek
+- Systém na správu súpisky pre jej rýchle vytvorenie
+- Potvrdenie účasti hráčov na stretnutí pred začiatkom hry
 
-It's important to mention "Roster" section is open 36 hours before game starts which is also indicated in "Gameboard" by time counter.
+Je dôležité spomenúť, že sekcia „Súpiska“ je otvorená 36 hodín pred začiatkom hry, čo je tiež indikované v „Hernej tabuli“ pomocou počítadla času.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/c1b39836-00e2-4123-83a2-a477645007d9" />
 
-#### Roster Creation
+#### Vytvorenie súpisky
 
-This tool supports main functionality originally developed for desktop version. It's a lighter version in comparatio of desktop one, but still coveres crucial aspects like: 
-- **Adding** player into game roster by picking from **Lobby Room** - it's default player base from which the picks are preferred
-- **Adding** player into game roster by picking from Organization **Player Base** - it helps when some players miss oppurtunity to officialy joining the game by game lobby
-- **Remove** player from game roster
-- **Position suggestion** system based on player specification set at creation process
-- **Player occupation** validation in game roster
-- **Position occupation** validation in game roster
+Tento nástroj podporuje hlavnú funkcionalitu systému pôvodne vyvinutého pre verziu `Dekstop`, ktorý sa vyznačuje róbustnosťou a je prispôsobený pre efektívne vytváranie hernej súpisky. Verzia `Smart` je skromnejšia na niektoré funkcie, ale stále pokrýva kľúčové aspekty systému, ako napríklad:
+- **Pridanie** hráča do hernej súpisky výberom z **Čakáreň** - je to predvolená hráčska základňa, z ktorej sa uprednostňujú výbery
+- **Pridanie** hráča do hernej súpisky výberom zo **Hráčskej základne vybranej organizácie** - funkcia je nápomocná v prípadoch, keď hráč zmešká príležitosť oficiálne sa pripojiť k hre cez systém "Čakáreň"
+- **Odstránenie** hráča z hernej súpisky
+- **Systém návrhov pozícií** na základe špecifikácie hráča nastavenej pri jeho registrácií
+- Overenie **obsadenosti hráča** v hernej súpiske
+- Overenie **obsadenosti pozície** v hernej súpiske
 
-Whole process of roster creation is divided in 3 steps: 
-1. Pick player from Org. players repository or lobby room
-2. Choose desired position for selected player based on team, line and grid
-3. Confirm selection
+Celý proces vytvárania súpisky je rozdelený do 3 krokov:
+1. Výber hráča z repozitára hráčov organizácie alebo z hernej čakárne
+2. Výber požadovanej pozície pre vybraného hráča na základe tímu a línie v súpisnej mriežke
+3. Potvrdenie výberu
 
-Once its confirmed, after refreshing page, selection will appear in game roster.
+Po potvrdení sa obnovením stránky nastavenie zobrazí v hernej súpiske.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/fa2e9821-f8da-4e28-9e28-21302f239987" />
 
-#### Player Attendance Confirm
+#### Potvrdenie účasti hráča
 
 Successful creation of game roster is first step to start a game. For a player, it serves as a official invitation to game by event menager. Once player is invited, players itself should confirm their availability to participate on game. 
 
@@ -176,78 +176,79 @@ Confirmation process is simple. Once player is added in game roster, its availab
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/335dbd59-4f84-474d-b1f2-edf4ac0f5d81" />
 
-### Stream
+### Zápas
 
-This feature providing key option to data collection necessary for further analysis and statistics. It unlocks possibilities to live tracing game progression status.\
-Since smart version is more tool oriented to provide most easy usage while ongoing game, desktop version is fully oriented like monitoring dashboard with much more complex real time metrics. 
+Táto funkcia poskytuje kľúčovú možnosť zhromažďovania údajov potrebných pre ďalšiu analýzu a štatistiky. Otvára možnosti sledovania priebehu hry v reálnom čase.\
+Keďže v tomto prípade je verzia `Smart` viac orientovaná aby slúžila ako nástroj, čím zabezpečuje jednoduchý formát používania a to počas prebiehajúcej hry, verzia `Desktop` je orientovaná ako monitorovací panel s možnosťou sledovania komplexných metrík v reálnom čase počas prebiehajúcej hry.\
+V konečnom dôsledku spojením oboch verzií užívateľ dostáva brilantnú možnosť ovládať priebeh hry a zároveň sledovať jeho vývoj v reálnom čase.
 
-Base screen for "Stream" section offers: 
-- Live game result
-- Roster-oriented grid view for simple usage related with pointing system
-- Simple indication about last scorer for each team
+Základná obrazovka pre sekciu „Stream“ ponúka:
+- Sledovanie priebežného výsledku zápasu
+- Zobrazenie vo formáte rovnakom ako v sekcií "Súpiska" zabezpečuje rýchly spôsob používania v súvislosti s bodovacím systémom
+- Informačná indikácia pre posledného strelca gólu pre jednotlivé tímy
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/b8087229-032f-4206-8f69-ee8522e2a26d" />
 
-#### Score Counter
+#### Počítadlo skóre
 
-It works like remote control for control of game result by adding several metrics directly to player. 
+Funguje to ako diaľkové ovládanie pre kontrolu priebežného výsledku hry a to spôsobom pridávania metrík priamo vybranému hráčovi.
 
-Counting works behind on simple pointing system consists of: 
-- Goals
-- Assists
-- Saves
-- Shots
+Počítanie funguje na základe jednoduchého bodovacieho systému, ktorý pozostáva z:
+- Gól
+- Gólová asistencia
+- Brankársky zákrok
+- Strela na bránu
 
-System is directly connected with game roster to ensure easy usage and orientation. By selecting player from game grid user is redirected into pointing system selection. Once metric is selected its necessar to confirm metric addition to player.
+Systém je priamo prepojený so súpiskou hráčov, čo zabezpečuje jednoduché používanie a orientáciu. Výberom hráča z hernej mriežky je používateľ presmerovaný na výber bodového systému. Po výbere metriky je potrebné potvrdiť jej pridanie k hráčovi.
 
-It's important to know, user can add or remove metric from player's point base.
+Je dôležité vedieť, že používateľ môže pridať alebo odstrániť metriku z bodovej základne hráča.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/6803dc12-8b4e-463b-ba02-966868ab77b1" />
 
-### Analysis
+### Štatistika
 
-Option to work with collected data is main goal of this tool. This section provides building an insights after finished games. 
+Hlavným zameraním tejto sekcie je poskytnúť možnosť práce so zhromaždenými údajmi. Štatistická analýza umožňuje vytvárať prehľady ihneď po skončení danej hry.
 
-Post game analysis center offers options to: 
-- Game result closure
-- Game progression overview with information about player with most active game record
-- Post game player attendance confirmation
+Centrum analýzy ponúka možnosti:
+- Konečný stav zápasu
+- Prehľad vývoja a priebehu hry s informáciami o hráčovi s najaktívnejším herným záznamom
+- Možnosť dodatočného potvrdenia účasti hráča po ukončení hry
 
-Its important to mention that is available **36 hours** right after finishing the game.
+Je dôležité spomenúť, že sekcia "Štatistika" je užívateľovi k dispozícii **36 hodín**, ihneď po skončení hry.
 
 <img width="500" height="500" alt="analysis-insight" src="https://github.com/user-attachments/assets/26421037-c0a5-468f-837b-93e9eca3d671" />
 
-#### Post Game Modifications
+#### Úpravy po zápase
 
-Same as this option is part of "Roster" section, it provides additional confirmation in case of player attendance in game. This feature help to event manager in scenarios if participation validations are ongoing after the game, not before.
+Možnosť potvrdenia účasti hráča na stretnutí je už súčasťou sekcie "Súpiska". Táto funkcia je doplnená aj pre sekciu "Štatistika" so zámerom poskytnutia možností dodatočných úprav po ukončení zápasu. Táto funkcia pomáha manažérovi podujatia v situáciách, keď overovanie účasti prebieha po hre, nie pred ňou.
 
-System for confirmation is similiar then its in "Roster" section, additionally with information about final comparison of all attended players in game.
+Systém pre potvrdenie je totožný ako v sekcií „Súpiska“, no v tomto prípade s doplňujúcou informáciou o konečnom porovnaní všetkých zúčastnených hráčov v zápase.
 
 <img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/1555f69c-d7fa-4192-99b1-997fb895e21c" />
 
-### Standings 
+### História
 
-In early version of application, this section providing possibility to look back on history of each game.\
-Basically, features that is part of "Analysis" section is also part of "Standings" section. Only difference that is "Analysis" section is locked 36 hours after the game, but "Standings" section is permanently available. 
+V rannej verzií aplikácie sekcia "História" kladie dôraz na možnosť spätnej sledovateľnosti pre jednotlivé zápasy.\
+Funkcie, ktoré sú súčasťou sekcie „Štatistika“, sú tiež súčasťou sekcie „História“. Jediný rozdiel je v tom, že sekcia „Štatistika“ je uzamknutá **36 hodín** po skončení zápasu, ale sekcia „História“ je pre užívateľa trvalo dostupná.
 
-For upcoming versions, "Standings" section will provide much more deeper look on selected organization stats and its opening the options to compare metrics between various organizations.
+V nadchádzajúcich verziách bude sekcia „História“ predmetom vývoja a ukrýva potenciál pre možnosti poskytovať oveľa hlbší pohľad na štatistiky vybraných organizácií, súčasťou čoho je napríklad porovnávanie metrík medzi jednotlivými celkami.
 
 ## Verzia Desktop
 
-Here's quick navigation for functionality explanation covered in this section: 
-- Gameboard
-- Player Management
-  - Player Creation
-  - Player Modifications  
-- Team Management
-  - Organization Creation
-  - Group Creation
-  - Game Scheduler
-  - Game Modifications
-- Game Join
-  - Player Suggestions
-- Game Roster
-  - Roster Creation
-  - Player Confirmation
-- Game Live Tracking
-- Game Analytics Tools
+Tu je rýchly prehľad funkcií uvedených v tejto časti:
+- Herná tabuľa
+- Správa hráčskej základne
+  - Registrácia hráča
+  - Úprava špecifikácie hráča
+- Správa a riadenie organizácie
+  - Registrácia organizácie
+  - Registrácia tímov organizácie
+  - Plánovač hry
+  - Úprava herných záznamov
+- Čakáreň
+  - Preferencie hráča
+- Súpiska
+  - Vytvorenie súpisky
+  - Potvrdenie úcasti hráča
+- Priamy prenos zápasu
+- Analytické nástroje

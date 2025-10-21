@@ -5,10 +5,10 @@ Komplexná dokumentácia pre používateľov, ktorá im umožňuje oboznámiť s
 Zameriava sa na praktické ukážky aktuálne poskytovaných funkcií, ktoré sú vysvetlené prostredníctvom interaktívnych animácií a videí.
 
 Tu je rýchla navigácia pre hlavné témy:
-- [Prístup do aplikácie](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#Prístup)
-- [Navigačný panel](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#navigation-screen)
-- [verzia Smart](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#smart-version)
-- [verzia Desktop](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#desktop-version)
+- [Prístup do aplikácie](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#pr%C3%ADstup-do-aplik%C3%A1cie)
+- [Navigačný panel](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#naviga%C4%8Dn%C3%BD-panel)
+- [verzia Smart](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#verzia-smart)
+- [verzia Desktop](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#verzia-desktop)
 
 ## Prístup do aplikácie
 
@@ -37,19 +37,19 @@ Je dôležité objasniť informácie týkajúce sa výberu platformy. Rozdiel ni
 ## Verzia Smart
 
 Tu je rýchly prehľad funkcií uvedených v tejto časti:
-- [Užívateľské nastavenia](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#usability-setup)
-- [Herná tabuľa](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#gameboard)
-  - [Registrácia hráča](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-creation)
-  - [Plánovač hry](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#game-scheduler)
-- [Čakáreň](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#lobby)
-- [Súpiska](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster)
-  - [Vytvorenie súpisky](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#roster-creation)
-  - [Potvrdenie účasti hráča](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#player-attendance-confirm)
-- [Zápas](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#stream)
-  - [Počítadlo skóre](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#score-counter)
-- [Štatistika](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#analysis)
-  - [Úpravy po zápase](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#post-game-modifications)
-- [História](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_en.md#standings)
+- [Užívateľské nastavenia](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#u%C5%BE%C3%ADvate%C4%BEsk%C3%A9-nastavenia)
+- [Herná tabuľa](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#hern%C3%A1-tabu%C4%BEa)
+  - [Registrácia hráča](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#registr%C3%A1cia-hr%C3%A1%C4%8Da)
+  - [Plánovač hry](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#pl%C3%A1nova%C4%8D-hry)
+- [Čakáreň](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#%C4%8Dak%C3%A1re%C5%88)
+- [Súpiska](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#s%C3%BApiska)
+  - [Vytvorenie súpisky](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#vytvorenie-s%C3%BApisky)
+  - [Potvrdenie účasti hráča](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#potvrdenie-%C3%BA%C4%8Dasti-hr%C3%A1%C4%8Da)
+- [Zápas](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#z%C3%A1pas)
+  - [Počítadlo skóre](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#po%C4%8D%C3%ADtadlo-sk%C3%B3re)
+- [Štatistika](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#%C5%A1tatistika)
+  - [Úpravy po zápase](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#%C3%BApravy-po-z%C3%A1pase)
+- [História](https://github.com/alphainbeta/beerleaguebox/blob/main/user_manual_sk.md#hist%C3%B3ria)
 
 ### Užívateľské nastavenia
 

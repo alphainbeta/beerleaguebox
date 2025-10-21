@@ -43,7 +43,7 @@ Here's quick navigation for functionality explanation covered in this section:
 - Lobby
 - Roster
   - Roster Creation
-  - Player Confirmation
+  - Player Attendance
 - Stream
   - Score Counter
 - Analysis
@@ -135,9 +135,13 @@ Player could be informed by email notification after every process change in Lob
 
 ### Roster
 
+#### Roster Creation
 
+#### Player Attendance Confirm
 
 ### Stream
+
+#### Score Counter
 
 ### Analysis
 

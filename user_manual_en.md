@@ -23,13 +23,15 @@ Once you'r logged in, your credentials should be remembered in system. For anoth
 
 ## Navigation Screen
 
-You can access to application displayed in various methods based on currently used platform - smartphone, desktop computer. 
+After succesful login into the enviroment user is welcomed in navigation showroom where's possible to: 
+- Access to application displayed in various methods based on currently used platform - smartphone, desktop computer
+- Switching between language versions and acces to user manuals - top right corner
+- Get information about latest updates and other types of information regarding application and hockey in overall - bottom section 
 
-Difference between them stands adjustment of application based on screen resolution. 
+It's important to clarify the information regarding platform selection. Difference is not only in adjustment based on screen resolution, but it also related with scope of functionality selected platform could provide. While version for smartphone is more lite but still posses core functionality, desktop version offers some additional features its extends user experience and provides more robust feel while working with.
 
-It's important to difference is not only in screen resolution, but it also related with scope of functionality selected platform could provide. While version for smartphone is more lite but still posses core functionalities, desktop version offers some additional features its extends user experience and provides more robust feel while working with.
+<img width="750" height="450" alt="image" src="https://github.com/user-attachments/assets/84f5d169-e630-46f9-b41b-319a99331de8" />
 
-At bottom of tab user can get to section which serves for effective information sharing regarding application and similiar topics.
 
 ## Smart Version 
 
@@ -53,18 +55,18 @@ Here's quick navigation for functionality explanation covered in this section:
 Base screen right after selection of visualization platform serves similar way like login screen with some quick overview metrics.
 
 This section consists of: 
-- Organization select - by clicking on org. title choose a desired one which will be part of further operations in application
-- Player select - by clicking on player name choose a desired one which will be part of further operations in application
+- **Organization select** - by clicking on org. title choose a desired one which will be part of further operations in application
+- **Player select** - by clicking on player name choose a desired one which will be part of further operations in application
 
 Each section provides quick look on standard overview about selection's status. Each selection is marked with identifier. Based on screen space saving, this identifier is used in metric overview for quick orientation. 
-- Activity Count Order
+- **Activity Count Order**
   - Org.: aggregation from count of scheduled games
   - Player: aggregation from count of player's invitation to game lobby
-- Last Status Information
+- **Last Status Information**
   - Org. Last Game: information is taken from game scheduler
   - Player Last Activity: information is taken from last join to game lobby
 
-![Login](https://github.com/user-attachments/assets/41508767-787f-4271-8f12-955b6d3d8310)
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/41508767-787f-4271-8f12-955b6d3d8310" />
 
 ### Gameboard
 
@@ -81,6 +83,8 @@ Bottom part of page involves navigation buttons for:
 - Return to "Usability Setup" page
 - Jump into management tool for player creation or game scheduling
 
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/faf35997-e747-456e-852f-2c92f4cfe204" />
+
 #### Player Creation 
 
 Feature supports full functionality of player's management system covered in desktop version.
@@ -91,7 +95,7 @@ This ligther version provides:
 
 Data about player could be fully modified in desktop version of player's management system.
 
-![create_player](https://github.com/user-attachments/assets/ed7a2d3f-6c5f-464d-91c7-1afca9afc5cf)
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/ed7a2d3f-6c5f-464d-91c7-1afca9afc5cf" />
 
 #### Game Scheduler
 
@@ -104,8 +108,7 @@ This ligher version provides:
 
 Further modifications of game data or game cancellation could be performed in desktop version of team's management system. 
 
-![create_game](https://github.com/user-attachments/assets/54502cdb-b6fd-4001-ad6a-c02e50d15ec9)
-
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/54502cdb-b6fd-4001-ad6a-c02e50d15ec9" />
 
 ### Lobby
 
@@ -128,14 +131,41 @@ Metrics involved in this particular section provides information about:
 
 Player could be informed by email notification after every process change in Lobby room.
 
-![join_game](https://github.com/user-attachments/assets/ec61c4e1-7bf0-4fad-a4a7-db00e327f224)
-
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/ec61c4e1-7bf0-4fad-a4a7-db00e327f224" />
 
 ### Roster
+
+
 
 ### Stream
 
 ### Analysis
+
+Option to work with collected data is main goal of this tool. This section provides building an insights after finished games. 
+
+Post game analysis center offers options to: 
+- Game result closure
+- Game progression overview with information about player with most active game record
+- Post game player attendance confirmation
+
+Its important to mention that is available **36 hours** right after finishing the game.
+
+<img width="500" height="500" alt="analysis-insight" src="https://github.com/user-attachments/assets/26421037-c0a5-468f-837b-93e9eca3d671" />
+
+#### Post Game Modifications
+
+Same as this option is part of "Roster" section, it provides additional confirmation in case of player attendance in game. This feature help to event manager in scenarios if attendance validations are ongoing after the game, not before.
+
+System for confirmation is similiar then its in "Roster" section, additionally with information about final comparison of all attended players in game.
+
+<img width="320" height="600" alt="image" src="https://github.com/user-attachments/assets/1555f69c-d7fa-4192-99b1-997fb895e21c" />
+
+### Standings 
+
+In early version of application, this section providing possibility to look back on history of each game.\
+Basically, features that is part of "Analysis" section is also part of "Standings" section. Only difference that is "Analysis" section is locked 36 hours after the game, but "Standings" section is permanently available. 
+
+For upcoming versions, "Standings" section will provide much more deeper look on selected organization stats and its opening the options to compare metrics between various organizations.
 
 ## Desktop Version
 

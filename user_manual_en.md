@@ -25,7 +25,7 @@ Once you'r logged in, your credentials should be remembered in system. For anoth
 
 After succesful login into the enviroment user is welcomed in navigation showroom where's possible to: 
 - Access to application displayed in various methods based on currently used platform - smartphone, desktop computer
-- Switching between language versions and acces to user manuals - top right corner
+- Switching between language versions, acces to user manuals and system's governance rules - top right corner
 - Get information about latest updates and other types of information regarding application and hockey in overall - bottom section 
 
 It's important to clarify the information regarding platform selection. Difference is not only in adjustment based on screen resolution, but it also related with scope of functionality selected platform could provide. While version for smartphone is more lite but still posses core functionality, desktop version offers some additional features its extends user experience and provides more robust feel while working with.

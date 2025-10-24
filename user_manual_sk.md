@@ -25,7 +25,7 @@ Po prihlásení by si systém mal vaše prihlasovacie údaje zapamätať. Pri ď
 
 Po úspešnom prihlásení do prostredia je používateľ privítaný v navigačnom showroome, kde je možné:
 - Prístupiť k funkciám aplikácie rôznymi spôsobmi na základe Vami aktuálne používanej platformy - smartfón, stolný počítač
-- Prepínanie medzi jazykovými verziami a prístup k používateľským manuálom - pravý horný roh
+- Prepínanie medzi jazykovými verziami, prístup k používateľským manuálom a pravidlám komunity - pravý horný roh
 - Získanie informácií o najnovších aktualizáciách a ďalších informácií týkajúcich sa aplikácie a hokeja všeobecne - spodná časť
 
 
